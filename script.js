@@ -83,7 +83,7 @@ function luckyClick() {
       type: "GET",
     })
     .done(function (data) {
-        var url = data.webPages.value[1].url
+        var url = data.webPages.value[0].url
         window.open(url, "_blank");
 
         results = "";

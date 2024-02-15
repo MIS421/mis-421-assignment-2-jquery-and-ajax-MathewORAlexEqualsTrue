@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,33 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\script.js",
               "RelativeDocumentMoniker": "script.js",
               "ToolTip": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\script.js",
               "RelativeToolTip": "script.js",
-              "ViewState": "AQIAADYAAAAAAAAAAADwv1QAAAAbAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAADwv0oAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-02-15T00:26:55.655Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\style.css",
-              "RelativeDocumentMoniker": "style.css",
-              "ToolTip": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\style.css",
-              "RelativeToolTip": "style.css",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-02-15T00:49:39.976Z",
               "EditorCaption": ""
             },
             {
@@ -61,20 +48,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-15T00:49:39.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-02-15T00:04:44.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Stanley Mk II\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-MathewORAlexEqualsTrue\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -82,8 +82,7 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-02-14T23:51:19.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-14T23:51:19.916Z"
             }
           ]
         }
