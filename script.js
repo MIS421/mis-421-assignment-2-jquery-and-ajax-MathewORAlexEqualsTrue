@@ -26,8 +26,8 @@ function apiSearch() {
         $('#searchResults').dialog({
             height: 700,
             width: '50%',
-            position: { my: "center", at: "bottom", of: window },
-        });
+            position: { my: "center", at: "bottom", of: window, collision: "fit" },
+        })
 
           
 
