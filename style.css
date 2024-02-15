@@ -1,1 +1,48 @@
- 
+body {
+    background-image: url(./assets/FRANKSinv.png);
+    font-family: 'OCR A';
+}
+
+
+#searchResults{
+    visibility: hidden;
+    overflow-y: scroll;
+}
+
+#time {
+    visibility: hidden;
+    position: center;
+}
+
+.main{
+    height: 100%;
+}
+
+.btnDiv {
+    display: inline;
+    padding-top: 10px;
+    font-family: 'OCR A';
+}
+
+.header{
+    width: 50%;
+    background: transparent;
+    border: none;
+}
+
+#query {
+    font-family: 'OCR A';
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 20rem;
+    height: 3rem;
+}
+
+.ui-dialog {
+    font-family: 'OCR A';
+}
+
+.ui-button {
+    font-family: 'OCR A';
+}

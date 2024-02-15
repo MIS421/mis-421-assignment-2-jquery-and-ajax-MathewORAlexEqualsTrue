@@ -1,16 +1,62 @@
 <!doctype html>
 
+
+
 <html lang="en">
 
 <head>
 
-  <link rel="stylesheet" href="./style.css">
+
+
+
+    <title>Ping</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs" crossorigin="anonymous"></script>
+
+    <!--<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css" integrity="sha384-s5lqL1NMu1TdDS/75EsR2IKqj5g2SbplE63nRqwT70/kcm2uFLqKGOCp1phJ2ENd" crossorigin="anonymous">-->
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/mint-choc/jquery-ui.css" integrity="sha384-wAqsNgcawaaKnrJWVOmkbj6wH6yiHAjTNHt9qpfr1Y/hlbLmXBomE9e6uOXI89Wb" crossorigin="anonymous">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js" integrity="sha384-4D3G3GikQs6hLlLZGdz5wLFzuqE9v4yVGAcOH86y23JqBDPzj9viv0EqyfIa6YUL" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="./style.css">
 
 </head>
 
 <body>
 
-  <script type="text/javascript" src="./script.js"></script>
+    <div class="main">
+
+        <center>
+      
+            <h1 class="ui-widget-header header" id="header">Ping</h1> <!--Becausse Im pinging Bings API heh-->
+     
+ 
+            <div>
+                <input type="text" id="query" name="search" placeholder="Search" class="ui-autocomplete-input">
+            </div>
+
+
+            <div class="btnDiv">
+                <button class="ui-button ui-corner-all ui-widget" onclick="searchClick()">Search</button>
+                <button class="ui-button ui-corner-all ui-widget" onclick="luckyClick()">I'm Feeling Lucky</button>
+                <button id="datetime" class="ui-button ui-corner-all ui-widget" onclick="OpenTimeDialog()">Time</button>
+                <button class="ui-button ui-corner-all ui-widget" onclick="OpenTimeDialog()">Time</button>
+            </div>
+        </center>
+
+        
+        <div id="searchResults"></div>
+        <div id="time" title="Current Time"></div>
+    </div>
+
+
+
+
+
+
+
+    <script type="text/javascript" src="./script.js"></script>
 
 </body>
 
